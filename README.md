@@ -17,6 +17,8 @@ Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para 
 - Criar chave para utilizar a API
 - Link para documentação da API https://pro.coinmarketcap.com/api/v1
 - Incluir a extensão "moesif origin & cors changer" no Google Chrome (https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+- Ativar a extensão antes de rodar o Index.html
+<img src="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas/blob/main/screens/ativar-extens%C3%A3o.jpg" />
 
 # Dados do README original
 [Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
@@ -24,7 +26,7 @@ Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para 
 [Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
 
 # Melhorias implementadas
-- ?????
+- Incluída a primeira data histórica para cada bitcoin listada
 
 # Exemplos de telas
-<img src="??????" />
+<img src="https://github.com/rdeconti/Projeto-DIO-Javascript-Criptomoedas/blob/main/screens/resultado-final-primeira-data-historica.jpg" />
