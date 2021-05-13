@@ -12,6 +12,17 @@ Este projeto foi proposto pela Digital Innovation One
 # Descrição
 Aprenda a fazer uma requisição de uma API de Criptomoeda com JavaScript. Para você que está começando a carreira de TI e gostaria de manipular APIs além de exibir essas informações em uma página web responsiva.
 
+# Detalhes para implementação
+- Criar conta em https://coinmarketcap.com/
+- Criar chave para utilizar a API
+- Link para documentação da API https://pro.coinmarketcap.com/api/v1
+- Incluir a extensão "moesif origin & cors changer" no Google Chrome (https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc)
+
+# Dados do README original
+[Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
+[Documetação de autenticação](https://coinmarketcap.com/api/documentation/v1/#section/Authentication) <br>
+[Documentação API](https://coinmarketcap.com/api/documentation/v1/#) <br>
+
 # Melhorias implementadas
 - ?????
 
